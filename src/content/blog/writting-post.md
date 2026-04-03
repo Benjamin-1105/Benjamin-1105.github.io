@@ -2,6 +2,7 @@
 title: '撰写博文'
 description: '在使用 Koi 模板的博客撰写博文，你需要注意的事情'
 pubDate: '2024-02-25'
+draft: true
 ---
 
 ## 我的博文要放在哪里？
